@@ -2,7 +2,7 @@
 Framework for writing daily Spark batch jobs, which use Hive as primary storage. 
 
 > [Sputnik](https://en.wikipedia.org/wiki/Sputnik_1) was the first artificial Earth satellite. The Soviet Union launched it into an elliptical low Earth orbit on 4 October 1957, orbiting for three weeks before its batteries died, then silently for two more months before falling back into the atmosphere.
-![sputnik schema](/images/Sputnik_asm.jpg)
+![sputnik schema](images/Sputnik_asm.jpg)
 ## Motivation
 
 [Apache Spark](https://spark.apache.org/) is general purpose execution engine which provides a lot of power 
@@ -44,7 +44,7 @@ Example of run specific logic:
 * job runs in staging mode, so all result tables are created with “_testing” 
 
 
-![sputnik schema](/images/sputnik_schema.jpeg)
+![sputnik schema](images/sputnik_schema.jpeg)
 
 ## Code example
 
